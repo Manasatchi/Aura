@@ -2,6 +2,7 @@ import pyttsx3
 import speech_recognition as sr
 import eel
 import time
+
 def speak(text):
     text = str(text)
     engine = pyttsx3.init('sapi5')
