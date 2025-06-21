@@ -221,3 +221,12 @@ A passionate AI and automation developer.
 ## 📄 License
 
 This project is open-source and available under the [MIT License](LICENSE).
+
+## 📸 screeshots
+![Screenshot 2025-05-02 151842](https://github.com/user-attachments/assets/07363368-c591-492a-a14e-9cb5b03acec2)
+![Screenshot 2025-05-20 101712](https://github.com/user-attachments/assets/931bcfdc-c540-4a2c-bb05-67e79d5b5218)
+![Screenshot 2025-05-20 104506](https://github.com/user-attachments/assets/2cd8ba72-bced-4835-895e-fdd5e5a2bcbc)
+![Screenshot 2025-05-01 171823](https://github.com/user-attachments/assets/202c864a-c931-4464-a8d8-52c3a4ee2099)
+
+
+
